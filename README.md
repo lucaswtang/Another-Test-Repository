@@ -1,2 +1,2 @@
 # Another-Test-Repository
-This is the master branch.
+This is the patch branch.
