@@ -1,2 +1,2 @@
 # Another-Test-Repository
-These are changes made to the branch / patch.
+This is the patch branch.
