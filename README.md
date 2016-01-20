@@ -1,2 +1,2 @@
 # Another-Test-Repository
-Changes made to the original branch.
+This is the master branch.
