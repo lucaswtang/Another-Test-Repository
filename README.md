@@ -1,2 +1,2 @@
 # Another-Test-Repository
-This is the patch branch.
+This is a branch off of the patch branch.
