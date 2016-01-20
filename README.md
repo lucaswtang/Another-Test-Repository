@@ -1,2 +1,2 @@
 # Another-Test-Repository
-Just typing random stuff here to test this out.
+These are changes made to the branch / patch.
